@@ -1,6 +1,7 @@
 <div align="center">
 ![](https://github.com/amanaii/Krate/blob/main/assets/krate.png)
-# Krate
+
+  # Krate
 
 Fast terminal UI downloader and updater for Minecraft server plugins.
 
