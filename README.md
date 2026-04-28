@@ -1,5 +1,5 @@
 <div align="center">
-![](https://github.com/amanaii/Krate/blob/main/assets/krate.png)
+![Krate](assets/krate.png)
 
   # Krate
 
