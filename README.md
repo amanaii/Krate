@@ -1,5 +1,5 @@
 <div align="center">
-![Krate](assets/krate.png)
+<img src="assets/krate.png" alt="Krate Logo" width="400">
 
   # Krate
 
